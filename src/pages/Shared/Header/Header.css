@@ -1,0 +1,22 @@
+.bg-light-gray{
+    background-color: gainsboro;
+}
+
+.btn-red-square{
+    background: #D72050;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
+.btn-gray-square{
+    background: #403F3F;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
