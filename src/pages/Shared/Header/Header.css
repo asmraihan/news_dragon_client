@@ -1,5 +1,5 @@
 .bg-light-gray{
-    background-color: gainsboro;
+    background-color: rgba(220, 220, 220, 0.547);
 }
 
 .btn-red-square{
@@ -12,7 +12,7 @@
     border-radius: 2px;
 }
 .btn-gray-square{
-    background: #403F3F;
+    background: #403f3f;
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 5px;

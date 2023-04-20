@@ -15,7 +15,7 @@ const Header = () => {
             <div className='d-flex w-75 mx-auto'>
                 <Button className='btn-red-square fw-semibold'>Latest</Button>
                 <Marquee className='text-danger fw-semibold' speed={100}>
-                    I can be a React component, multiple React components, or just some text....
+                  News flash !! I hate bootstrap !!! ....
                 </Marquee>
             </div>
             {/* navbar */}
