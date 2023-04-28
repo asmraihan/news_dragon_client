@@ -11,6 +11,15 @@
     border: none;
     border-radius: 2px;
 }
+.btn-red-square:hover{
+    background: #ff5900;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
 .btn-gray-square{
     background: #403f3f;
     padding-left: 25px;
